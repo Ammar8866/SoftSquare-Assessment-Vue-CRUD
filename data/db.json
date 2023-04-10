@@ -1,0 +1,30 @@
+{
+  "products": [ {
+    "id": 1,
+    "title": "IPHONE 14",
+    "price": "$1000",
+    "image": "https://images.priceoye.pk/iphone-14-pro-pakistan-priceoye-sibh5-270x270.jpg"
+  },
+  {
+    "id": 2,
+    "title": "GOOGLE PIXEL 4A (JUST BLACK, 6GB RAM, 128GB STORAGE)",
+    "price": "$700",
+    "image": "https://vlebazaar.in/image/cache/catalog//B08CFSZLQ4/Google-Pixel-4a-Just-Black-6GB-RAM-128GB-Storage-B08CFSZLQ4-1000x1000.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Apple MacBook Pro 16.2 Inches M1 Chip (MK183)",
+    "price": "$1200",
+    "image": "https://images.priceoye.pk/apple-macbook-pro-16-2-inches-m1-pro-chip-16gb-ram-512gb-ssd-mk183-pakistan-priceoye-5mmbb-270x270.jpg"
+    
+  },
+
+  {
+    "id": 3,
+    "title": "Samsung Galaxy S23 Ultra",
+    "price": "$500",
+    "image": "https://images.priceoye.pk/samsung-galaxy-s23-ultra-pakistan-priceoye-h61xp-270x270.jpg"
+    
+  }
+]
+}
